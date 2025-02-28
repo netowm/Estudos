@@ -1,2 +1,2 @@
 # Estudos
- Estudos Gerais
+ Repositório contendo todos arquivos de estudos
