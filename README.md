@@ -1,9 +1,5 @@
 # 📚 Repositório de Estudos
 
-[![Último Commit](https://img.shields.io/github/last-commit/seu-usuario/seu-repo?style=for-the-badge&color=blue)](https://github.com/netowm/Estudos)
-[![Tamanho do Repositório](https://img.shields.io/github/repo-size/seu-usuario/seu-repo?style=for-the-badge&color=orange)](https://github.com/netowm/Estudos)
-[![Linguagem Principal](https://img.shields.io/github/languages/top/seu-usuario/seu-repo?style=for-the-badge&color=informational)](https://github.com/netowm/Estudos)
-
 Este repositório reúne meus estudos e práticas em diversas tecnologias da programação. Aqui você encontrará anotações, exercícios, projetos simples e testes feitos durante minha jornada de aprendizado.
 
 ## 🧠 Propósito
