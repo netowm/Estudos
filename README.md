@@ -1,4 +1,9 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/netowm/Estudos)
+![GitHub repo size](https://img.shields.io/github/repo-size/netowm/Estudos)
+![Languages](https://img.shields.io/github/languages/top/netowm/Estudos)
+
 # 📚 Repositório de Estudos
+
 
 Este repositório reúne meus estudos e práticas em diversas tecnologias da programação. Aqui você encontrará anotações, exercícios, projetos simples e testes feitos durante minha jornada de aprendizado.
 
@@ -14,12 +19,13 @@ Organizar meu progresso nos estudos, facilitar revisões futuras e compartilhar 
 - Python
 
 ## 📂 Estrutura do Repositório
-
+```
 estudos/
 ├── html-css/
 ├── javascript/
 ├── php/
 ├── python/
+```
 
 ## 🚧 Em constante atualização...
 
