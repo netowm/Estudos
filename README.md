@@ -15,7 +15,7 @@ Organizar meu progresso nos estudos, facilitar revisões futuras e compartilhar 
 
 ## 📂 Estrutura do Repositório
 ```
-estudos/
+conteudo/
 ├── html-css/
 ├── javascript/
 ├── php/
